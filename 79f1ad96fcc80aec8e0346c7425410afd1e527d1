@@ -122,3 +122,11 @@ Versions:
 2011.12.05 which is Markus' version
 2013.02.24 which is Mohamed's version
 2012.10.17 which is Sebas' version
+
+Modules/: 719aef8 ReducedBasisOfModule now supports the option "COMPUTE_SMALLER_BASIS"
+
+Versions:
+2013.02.10 which is Mohamed's version
+2012.10.22 which is Markus' version
+2011.07.20 which is Florian's version
+2012.10.17 which is Sebas' version
