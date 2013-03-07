@@ -37,3 +37,8 @@ D-Modules/: 069b758 order now is the first argument in operations involving diff
 
 Versions:
  2013.02.20
+
+ExamplesForHomalg/: 81371c7 W  PackageDoc.Archive is withdrawn, use PackageDoc.ArchiveURLSubset instead
+
+Versions:
+ 2012.10.23
