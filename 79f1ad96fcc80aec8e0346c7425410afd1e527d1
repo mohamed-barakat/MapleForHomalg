@@ -32,3 +32,8 @@ Convex/: 6c9c1a1 PackageMarkedForLoading.
 
 Versions:
 2013.01.28 which is Sebas' version
+
+D-Modules/: 069b758 order now is the first argument in operations involving differentiation
+
+Versions:
+ 2013.02.20
